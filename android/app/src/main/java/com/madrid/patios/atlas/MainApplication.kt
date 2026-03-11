@@ -1,4 +1,4 @@
-package com.madridpatiosatlas
+package com.madrid.patios.atlas
 
 import android.app.Application
 import com.facebook.react.PackageList
