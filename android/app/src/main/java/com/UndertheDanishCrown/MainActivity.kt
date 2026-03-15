@@ -1,4 +1,4 @@
-package com.madrid.patios.atlas
+package com.UndertheDanishCrown
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.madrid.patios.atlas"
+    namespace "com.UndertheDanishCrown"
     defaultConfig {
-        applicationId "com.madrid.patios.atlas"
+        applicationId "com.UndertheDanishCrown"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
